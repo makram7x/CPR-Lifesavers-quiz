@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CPR Lifesaver Quiz",
+    "slug": "QuizApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/doctor.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/doctor.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.quizapp"
+    },
+    "web": {
+      "favicon": "./assets/doctor.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a1b076fc-58c7-4980-a0fa-5bdeee3f8449"
+      }
+    }
+  }
+}
