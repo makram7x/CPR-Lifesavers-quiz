@@ -11,7 +11,7 @@ Developed using React Native for cross-platform compatibility
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/cpr-lifesaver-quiz.git
+[git clone https://github.com/makram7x/CPR-Lifesavers-quiz.git
 
 Navigate to the project directory:
 cd cpr-lifesaver-quiz
